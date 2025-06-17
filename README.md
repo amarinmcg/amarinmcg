@@ -1,7 +1,6 @@
 # Hi there, I'm Amari (or Mari, for short) 👋🏾
 
 ## About Me
----
 
 I'm a passionate historian, educator, and social data scientist who believes in the power of storytelling through data. Deeply committed to LGBTQ+ rights and social justice, I've made it my mission to bridge the gap between advocacy and education, making transgender history more accessible to everyone. When I'm not crunching numbers, speaking, or teaching, you'll find me behind the microphone hosting my podcast [Trans* Lesson Plan](https://open.spotify.com/show/1C8sCmMmmlPSsguU9XuOHp?si=zOVtuaEUTcygJBkz321amA) where I dive into fascinating stories of transgender history and experiences. I'm proficient in Python, R, and Power BI for data analysis and visualization—tools that help me create compelling narratives from complex datasets. This technical foundation enables me to process large amounts of social data and create accessible visualizations that illuminate key insights about LGBTQ+ experiences and real-world change. I bring my whole self to every project, combining technical expertise with my passion for social justice. Through my work in oral history and data science, I aim to push boundaries and tell our community's stories in powerful new ways.
 
@@ -24,6 +23,8 @@ I'm a passionate historian, educator, and social data scientist who believes in 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg">
 <br />
+
+---
 
 ## 🚀 Feature Project
 
