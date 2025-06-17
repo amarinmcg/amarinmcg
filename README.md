@@ -46,8 +46,6 @@ I'm a passionate historian, educator, and social data scientist who believes in 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg">
 </details>
 <br />
-<br />
-
 
 ## 📘 Projects
 
