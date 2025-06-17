@@ -4,11 +4,8 @@
 
 Welcome! I am a Social Data Scientist with a passion for analyzing and understanding social movements and networks.
 
-## 👩‍💻 Top Skills
-
-- **Python**
-- **R**
-- **C#**
+### Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg">
 
 ## 🚀 Feature Project
 
