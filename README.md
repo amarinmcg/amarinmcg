@@ -31,25 +31,22 @@ I'm a passionate historian, educator, and social data scientist who believes in 
 ### Social Movement Network Analysis
 This research project aims to conduct a comprehensive social network analysis of transgender rights organizations, activists, and historical events. We seek to map the evolution and interconnections of advocacy networks to understand the movement's development over time.
 
-[!NOTE]
-Currently in the initiation and planning phase.
+> [!NOTE]
+> Currently in the initiation and planning phase.
+
+## 📝 Blog Posts
+
+<!-- Add your latest blog posts below! For each, include a title, brief summary, and link. Example: -->
+- **[The Power of Data in Advocacy](#)**  
+  Exploring how data-driven insights can empower grassroots campaigns. *(Published: YYYY-MM-DD)*
+
+<!-- Add more posts as you publish them! -->
 
 ## 📫 Interested in Working Together?
 
 - [Email](mailto:amari@amarimcgee.com?subject=Interested%20in%20Working%20Together&body=Your%20Body%20Text)
 - [LinkedIn](https://www.linkedin.com/in/marimcgee/)
 - [Website](https://www.amarimcgee.com/)
-
-## 📝 Blog Posts
-
-<!-- Add your latest blog posts below! For each, include a title, brief summary, and link. Example: -->
-- **[How Network Science Illuminates Social Movements](#)**  
-  A deep dive into the network dynamics behind social change. *(Published: YYYY-MM-DD)*
-
-- **[The Power of Data in Advocacy](#)**  
-  Exploring how data-driven insights can empower grassroots campaigns. *(Published: YYYY-MM-DD)*
-
-<!-- Add more posts as you publish them! -->
 
 ---
 *Feel free to connect, collaborate, or reach out about my work or shared interests!*
