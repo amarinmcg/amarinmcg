@@ -36,7 +36,7 @@ I'm a passionate historian, educator, and social data scientist who believes in 
 <br />
 
 <details>
-<summary> Social Data Science Tools </summary>
+<summary> Statistical Tools </summary>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg">
 </details>
