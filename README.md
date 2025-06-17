@@ -29,7 +29,6 @@ I'm a passionate historian, educator, and social data scientist who believes in 
 
 <details>
 <summary> Data Management Tools </summary>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </details>
 <br />
@@ -43,11 +42,18 @@ I'm a passionate historian, educator, and social data scientist who believes in 
 
 <details>
 <summary> Other Skills/Tools </summary>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg">
 </details>
 <br />
 
 ## 📘 Projects
+
+### Predictive Modeling of Societal Acceptance of the LGBTQ+ Community
+This research project aims to conduct a comprehensive social network analysis of transgender rights organizations, activists, and historical events. We seek to map the evolution and interconnections of advocacy networks to understand the movement's development over time.
+
+> [!NOTE]
+> Currently in the design phase.
 
 ### Transgender Social Movement Network Analysis
 This research project aims to conduct a comprehensive social network analysis of transgender rights organizations, activists, and historical events. We seek to map the evolution and interconnections of advocacy networks to understand the movement's development over time.
