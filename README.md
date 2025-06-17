@@ -65,19 +65,18 @@ This research project aims to conduct a comprehensive social network analysis of
 > [!NOTE]
 > Currently in the initiation and planning phase.
 
-## 📝 Blog Posts
-
-<!-- Add your latest blog posts below! For each, include a title, brief summary, and link. Example: -->
-- **[The Power of Data in Advocacy](#)**  
-  Exploring how data-driven insights can empower grassroots campaigns. *(Published: YYYY-MM-DD)*
-
-<!-- Add more posts as you publish them! -->
-
-## 📝 Latest Episode
+## 🎧 Latest Episode
 
 <!-- Add your latest episode below! -->
 - **[Echoes of Herculine: The Hidden Legacy of Herculine Barbin](https://open.spotify.com/episode/36KMCgJsosaon5BNBr3H2J?si=fEUvKZ8pSq-Ud4DPLNnjEw)**  
   Join us as we explore the memoir of Herculine Barbin, a 19th-century French intersex individual whose story shaped discussions on gender identity and institutional power.
+
+<!-- Add more posts as you publish them! -->
+
+## 📝 Blog Posts
+
+<!-- Add your latest blog posts below! For each, include a title, brief summary, and link. Example: -->
+*(Coming Soon)*
 
 <!-- Add more posts as you publish them! -->
 
