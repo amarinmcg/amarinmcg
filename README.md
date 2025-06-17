@@ -73,6 +73,14 @@ This research project aims to conduct a comprehensive social network analysis of
 
 <!-- Add more posts as you publish them! -->
 
+## 📝 Latest Episode
+
+<!-- Add your latest episode below! -->
+- **[Echoes of Herculine: The Hidden Legacy of Herculine Barbin](https://open.spotify.com/episode/36KMCgJsosaon5BNBr3H2J?si=fEUvKZ8pSq-Ud4DPLNnjEw)**  
+  Join us as we explore the memoir of Herculine Barbin, a 19th-century French intersex individual whose story shaped discussions on gender identity and institutional power.
+
+<!-- Add more posts as you publish them! -->
+
 ## 📫 Interested in Working Together?
 
 - [Email](mailto:amari@amarimcgee.com?subject=Interested%20in%20Working%20Together&body=Your%20Body%20Text)
