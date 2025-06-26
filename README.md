@@ -57,13 +57,13 @@ I'm a passionate historian, educator, and social data scientist who believes in 
 This research project aims to conduct a comprehensive social network analysis of transgender rights organizations, activists, and historical events. We seek to map the evolution and interconnections of advocacy networks to understand the movement's development over time.
 
 > [!NOTE]
-> Currently in the design phase.
+> Currently in the data preparation phase.
 
 ### Transgender Social Movement Network Analysis
 This research project aims to conduct a comprehensive social network analysis of transgender rights organizations, activists, and historical events. We seek to map the evolution and interconnections of advocacy networks to understand the movement's development over time.
 
 > [!NOTE]
-> Currently in the initiation and planning phase.
+> Currently in the discovery phase.
 
 ## 🎧 Latest Episode
 
